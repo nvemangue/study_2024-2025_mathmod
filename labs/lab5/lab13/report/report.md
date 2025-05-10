@@ -267,9 +267,25 @@ Report generated: Sat Jun  1 00:38:28 2024
 
 В результате выполнения данной лабораторной работы я выполнила задание для самостоятельного выполнения, а именно провела анализ сети Петри, построила сеть в CPN Tools, построила граф состояний и провела его анализ.
 
-Питерсон Дж. Теория сетей Петри и моделирование систем: Пер. с англ.  М.: Мир, 1984.
+# Литература:
 
-Лескин А.А. Сети Петри в моделировании и управлении.  Л.: Наука, 1988.
-
-Котов В.Е. Сети Петри.  М.: Наука, 1984
+    Королькова, А. В. Моделирование информационных процессов / А. В. Королькова, Д. С. 
+    Кулябов. — Москва : Издательство РУДН, 2020.  
+    
+    
+    Petri, C. A. Kommunikation mit Automaten / C. A. Petri. — Bonn : Institut für 
+    nstrumentelle Mathematik, 1962.  
+    
+    
+    CPNTools Manual / K. Jensen, L. M. Kristensen. — Department of Computer Science, 
+    Aarhus University, 2021. 
+    
+     
+    Reisig, W. Place/Transition Petri Nets / W. Reisig // Lectures on Petri Nets I: 
+    Basic Models. — Springer, 2013. — Vol. 1491. — P. 147–178.  
+    
+    
+    Murata, T. Petri nets: Properties, analysis and applications / T. Murata // 
+    Proceedings of the IEEE. — 1989. — Vol. 77, no. 4. — P. 541–580.
+     
 
